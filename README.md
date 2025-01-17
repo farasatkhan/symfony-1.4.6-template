@@ -1,4 +1,4 @@
-Symfony Version: [1.4.6](https://symfony.com/legacy)
+Symfony Version: [1.4.6](https://symfony.com/legacy)<br/>
 Xampp + PHP 5.6.8: [v3.2.1](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.8/xampp-win32-5.6.8-0-VC11.7z/download):
 
 ### Web Server Configuration
