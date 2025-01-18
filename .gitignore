@@ -3,11 +3,7 @@ cache/*
 log/*
 web/uploads/*
 data/sql/*
-lib/vendor/*
 plugins/**/lib/vendor/*
-
-# Exception to include the 'symfony' folder inside lib/vendor because there are issues with the symfony 1.4.6 version which are fixed
-!lib/vendor/symfony/
 
 # Configuration files
 config/databases.yml
@@ -57,7 +53,6 @@ php.ini
 
 # Composer (if used)
 composer.phar
-vendor/
 
 # Test coverage reports
 coverage/
